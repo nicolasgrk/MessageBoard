@@ -14,11 +14,11 @@ Pour verifier si toute l'installation s'est bien déroulée:
 Vous pouvez essayer de vous connecter en cliquant sur le bouton "Se connecter" et en ajoutant un salon.
 
 ## Structure des test
-- features
+- __features__
   - __test__: Contient les test jeset
-  - bootstrap:Contient les testes fonctionnelle
+  - __bootstrap__:Contient les testes fonctionnelle
   - FeatureContext.php: Contient les test écris en Gherkin
-- tests: Contient les test PHPUnit
+- __tests__: Contient les test PHPUnit
 ## Tests
 Behat
 Behat est utilisé pour les tests d'acceptation. Pour lancer les tests, exécutez la commande suivante dans le répertoire du projet :
