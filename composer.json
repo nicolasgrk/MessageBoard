@@ -1,0 +1,20 @@
+{
+    "name": "nicolasgurak/exam-test",
+    "require": {
+        "phpunit/phpunit": "^10.1"
+    },
+    "require-dev": {
+        "behat/behat": "^3.10"
+    },
+    "autoload": {
+        "psr-4": {
+            "Nicolasgurak\\ExamTest\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "nicolasgrk",
+            "email": "nicolasgurak@gmail.com"
+        }
+    ]
+}
