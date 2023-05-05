@@ -5,11 +5,12 @@ Le projet consiste en la création d'un message board où les utilisateurs peuve
 ## Installation
 
 Clonez ce dépôt sur votre serveur local ou distant.
+
 Configurez votre serveur pour pointer vers le dossier du projet(src).
 
 ## Utilisation
 
-Pour verifier si toute l'installation s'est bien déroulée
+Pour verifier si toute l'installation s'est bien déroulée:
 Vous pouvez essayer de vous connecter en cliquant sur le bouton "Se connecter" et en ajoutant un salon.
 
 ## Structure des test
