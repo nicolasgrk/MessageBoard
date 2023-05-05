@@ -13,7 +13,7 @@ Configurez votre serveur pour pointer vers le dossier du projet(src).
 Pour verifier si toute l'installation s'est bien déroulée:
 Vous pouvez essayer de vous connecter en cliquant sur le bouton "Se connecter" et en ajoutant un salon.
 
-## Structure des test
+## Structure des tests
 - __features__
   - __test__: Contient les test jeset
   - __bootstrap__:Contient les testes fonctionnelle
@@ -21,6 +21,7 @@ Vous pouvez essayer de vous connecter en cliquant sur le bouton "Se connecter" e
 - __tests__: Contient les test PHPUnit
 ## Tests
 Behat
+
 Behat est utilisé pour les tests d'acceptation. Pour lancer les tests, exécutez la commande suivante dans le répertoire du projet :
 
 ```php
@@ -44,6 +45,7 @@ Les méthodes testées sont:
 - theSalonShouldContainJohnsMessage
 
 PHPUnit
+
 PHPUnit est utilisé pour les tests unitaires. Pour lancer les tests, exécutez la commande suivante dans le répertoire du projet :
 
 ```php
@@ -58,7 +60,9 @@ Les méthodes testées sont :
 - deleteUser()
 - getUserByUsername() (dans l'interface)
 - postMessage() (dans l'interface)
+
 Jest
+
 Jest est utilisé pour les tests unitaires en JavaScript. Pour lancer les tests, exécutez la commande suivante dans le répertoire du projet :
 
 ```javascript
